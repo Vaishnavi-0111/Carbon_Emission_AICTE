@@ -10,6 +10,8 @@
 
 This project aims to predict **carbon emissions** for various countries using machine learning models trained on historical emissions data. It was developed during the AICTE Virtual Internship Program (June–July 2025) under the mentorship of **Raghunandan M S**.
 
+Link to model: https://drive.google.com/file/d/1gVFaFwO9nVb7Szy9HVdu_irgcDVthj-z/view?usp=drive_link
+
 ---
 
 ## 🎯 Objective

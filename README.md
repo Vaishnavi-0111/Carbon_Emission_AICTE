@@ -78,13 +78,6 @@ The model has been deployed locally using **Streamlit** for interactive predicti
    ```
    http://localhost:8501
    ```
-
-### 🧩 Streamlit App Features
-
-* Input prediction features manually or via file upload
-* Visualize historical trends and country-specific emissions
-* View model predictions and performance metrics
-
 ---
 
 ## ✅ Results
